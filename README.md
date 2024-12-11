@@ -1,8 +1,3 @@
-# Propuesta de Transformación Digital para Hotel El Salao
-
-## Introducción  
-Esta propuesta detalla cómo el uso de la Inteligencia Artificial (IA) y otras tecnologías digitales pueden optimizar los procesos del Hotel El Salao, mejorar la experiencia del cliente y aumentar su competitividad en el mercado hotelero.
-
 ## Optimización de procesos en planta
 
 - **Control de energía y agua**: Sensores IoT permitirán controlar el consumo de energía y agua en función de la ocupación del hotel, ajustando los niveles automáticamente. Esto reducirá los costos operativos y contribuirá a la sostenibilidad.
