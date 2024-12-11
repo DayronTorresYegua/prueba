@@ -23,6 +23,3 @@
 - **Eficiencia**: La automatización de procesos como la gestión de inventarios y el mantenimiento aumentará la eficiencia operativa y reducirá la intervención manual.
 
 - **Competitividad**: La adopción de tecnologías avanzadas permitirá al hotel destacarse frente a la competencia, atrayendo más clientes y mejorando su posicionamiento en el mercado.
-
-## Conclusión  
-La transformación digital permitirá al Hotel El Salao mejorar sus procesos operativos, ofrecer una experiencia personalizada a los huéspedes y mantenerse competitivo en el mercado. La implementación de estas tecnologías garantizará un futuro más eficiente y sostenible para el hotel.
