@@ -8,18 +8,20 @@
 
 ## Optimización de procesos en el negocio
 
-- **Personalización con IA**: Un CRM con inteligencia artificial analizará los datos de los huéspedes, como sus preferencias y comportamientos pasados. Esto permitirá personalizar los servicios, como recomendaciones de actividades o habitaciones, mejorando la experiencia del cliente.
+- **Personalización con IA**: Un CRM con inteligencia artificial podrá revisar datos de los huéspedes como lo que les gusta o han pedido antes. Con eso se podrán ofrecer servicios más personalizados como sugerir actividades o elegir habitaciones que se adapten mejor a ellos haciendo que estén más cómodos.
 
-- **Precios dinámicos**: Con el uso de Big Data, el hotel podrá ajustar sus precios en función de la demanda y otros factores del mercado. Esto maximizará los ingresos y permitirá una mejor adaptación a las fluctuaciones del mercado.
+- **Precios dinámicos**: Usando Big Data el hotel podrá cambiar los precios de las habitaciones dependiendo de la demanda o de lo que esté pasando en el mercado. Esto ayudará a ganar más dinero y a ajustarse mejor a lo que necesita el negocio.
 
-- **Chatbots**: La implementación de chatbots en el sitio web o la app del hotel permitirá responder a preguntas frecuentes y gestionar reservas automáticamente, mejorando la atención al cliente y reduciendo el tiempo de espera.
+- **Chatbots**: Poner chatbots en la página web o en la app del hotel hará que puedan responder preguntas comunes y gestionar reservas automáticamente. Esto hará que los clientes reciban ayuda más rápido y que el personal tenga menos trabajo con esas tareas.
+
 
 ## Beneficios
 
-- **Sostenibilidad**: La optimización del consumo de recursos, como energía y agua, reducirá los costos operativos y contribuirá a la sostenibilidad del hotel.
+- **Sostenibilidad**: Usar mejor los recursos como la energía y el agua va a ayudar a que el hotel gaste menos dinero y también sea más respetuoso con el medio ambiente.
 
-- **Personalización**: Los servicios personalizados basados en la IA mejorarán la experiencia del cliente, lo que aumentará la satisfacción y la fidelización.
+- **Personalización**: Hacer servicios que se adapten a lo que les gusta a los clientes, gracias a la IA, hará que estén más contentos y que quieran volver al hotel.
 
-- **Eficiencia**: La automatización de procesos como la gestión de inventarios y el mantenimiento aumentará la eficiencia operativa y reducirá la intervención manual.
+- **Eficiencia**: Automatizar cosas como controlar los inventarios o hacer mantenimientos hará que el hotel funcione mejor y que el personal no tenga que hacer tanto trabajo manual.
 
-- **Competitividad**: La adopción de tecnologías avanzadas permitirá al hotel destacarse frente a la competencia, atrayendo más clientes y mejorando su posicionamiento en el mercado.
+- **Competitividad**: Usar tecnología moderna ayudará al hotel a ser diferente de los demás, llamará la atención de más clientes y mejorará su lugar en el mercado.
+
